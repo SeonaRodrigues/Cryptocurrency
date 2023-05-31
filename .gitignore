@@ -1,0 +1,11 @@
+version1.0/node_modules
+.env
+version1.0/coverage
+version1.0/coverage.json
+version1.0/typechain
+version1.0/typechain-types
+
+# Hardhat files
+version1.0/cache
+version1.0/artifacts
+
