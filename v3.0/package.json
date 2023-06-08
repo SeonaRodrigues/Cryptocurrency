@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.1",
+    "hardhat": "^2.14.1"
+  },
+  "description": "This project demonstrates a NFT Dutch Auction. It comes with a NFT Contract, a NFTDutchAuction contract, test cases for both contracts, and a solidity coverage report.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
